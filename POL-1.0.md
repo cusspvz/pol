@@ -41,7 +41,7 @@ AUTHOR(S), but are not allowed to distribute by any form.
 USER(S) is/are NOT allowed to:
 - Copy, Edit or Distribute any part of the PROJECT.
 - Use this PROJECT without agreeing with the PO LICENSE;
-- Claim for warranty or charge AUTHOR(S), COPYRIGHTER(S) and/or AUTHOR(S) for
+- Claim for warranty or charge AUTHOR(S), COPYRIGHTER(S) and/or OWNER(S) for
 any kind of damages caused by this project. USER(S) are responsable for making
 preventions against future damages by analysing the whole project's source.
 
