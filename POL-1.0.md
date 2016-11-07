@@ -37,7 +37,7 @@ USER(S) is/are allowed to:
 COPYRIGHTER(S).
 - Predict for any further damages that may occur by the project and warn their
 OWNER(S) about it.
-- Fork and edit the project with intents of make it better and becoming former
+- Fork and edit the project with intents of making it better and becoming former
 CONTRIBUTORS(S), but are not allowed to distribute by any form.
 
 USER(S) is/are NOT allowed to:
@@ -52,7 +52,7 @@ COPYRIGHTER(S) claiming not to.
 ## CONTRIBUTORS(S)
 is/are any who wrote a piece of the PROJECT
 
-A CONTRIBUTOR must be nominated by all AUTHOR(S) and OWNER(S)
+A CONTRIBUTOR must be nominated by majority of all AUTHOR(S)
 
 CONTRIBUTORS(S) is/are allowed to:
 - Edit the project with proper authorization from the OWNER(S)
@@ -64,7 +64,7 @@ CONTRIBUTORS(S) is/are NOT allowed to:
 ## AUTHOR(S)
 is/are who have major contributions on the PROJECT
 
-A AUTHOR must be nominated by all AUTHOR(S) and OWNER(S)
+A AUTHOR must be nominated by majority of AUTHOR(S) and OWNER(S)
 
 AUTHOR(S) is/are allowed to:
 - Edit the project with proper authorization from the OWNER(S)
