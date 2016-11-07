@@ -58,7 +58,7 @@ CONTRIBUTORS(S) is/are allowed to:
 - Edit the project with proper authorization from the OWNER(S)
 
 CONTRIBUTORS(S) is/are NOT allowed to:
-- Copy, Edit or Distribute any part of the PROJECT.
+- Copy or Distribute any part of the PROJECT.
 
 
 ## AUTHOR(S)
@@ -70,7 +70,7 @@ AUTHOR(S) is/are allowed to:
 - Edit the project with proper authorization from the OWNER(S)
 
 AUTHOR(S) is/are NOT allowed to:
-- Copy, Edit or Distribute any part of the PROJECT.
+- Copy or Distribute any part of the PROJECT.
 
 ## COPYRIGHTER(S)
 is/are who hold the right to COPY and DISTRIBUTE the PROJECT
