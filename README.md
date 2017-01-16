@@ -17,7 +17,7 @@ FROM DEFECTS.
 
 ## Contributing
 
-If you have experiencing on Software Licensing, please do consider
+If you have experience on Software Licensing, please do consider
 contributing to it.
 
 https://github.com/cusspvz/pol
