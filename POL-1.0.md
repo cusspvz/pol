@@ -4,7 +4,7 @@
                       (c) 2016 - present by José Moreira
 
 The Private-Open License is a license targeted for private source-code projects
-who may need to be in the public domain for any kind of reasons.
+which may need to be in the public domain for any kind of reasons.
 
 This LICENSE endorses all files in the PROJECT, and may be included at the top
 of a file whenever any of the OWNER(S), COPYRIGHTER(S) or AUTHOR(S) need to
